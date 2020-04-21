@@ -1,2 +1,2 @@
-# react-setup
-react-setup
+# react-app
+front-end for rails app
